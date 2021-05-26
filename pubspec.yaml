@@ -1,0 +1,18 @@
+name: iorbit_text_input_formatter
+description: Multiple InputTextFormatter implementations.
+version: 0.0.1
+author: Marcelo de Castro <marceloddcastro@gmail.com>
+homepage: https://github.com/marcelodd/iorbit_text_input_formatter
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
